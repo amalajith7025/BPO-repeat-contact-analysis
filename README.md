@@ -11,6 +11,6 @@ CSAT does not reflect operational inefficiency
 
 Tools Used
 
-Python (Pandas)
-Tableau
+Python (Pandas),
+Tableau,
 Notion
